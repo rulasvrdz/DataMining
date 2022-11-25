@@ -1,10 +1,10 @@
-Esta aplicacion es de manera preventiva, los datos recabados solo son para poder predecir el resultado 
-y no se guardara ningun dato en la aplicacion ni en cualquier otro lugar.
+Esta aplicación es de manera preventiva, los datos recabados solo son para poder predecir el resultado 
+y no se guardará ningún dato en la aplicación ni en cualquier otro lugar.
 
-Esta aplicacion no sustituye una consulta al medico, los resultados y las recomendaciones dadas solo sirven
-como un diagnostico preventivo.
+Esta aplicación no sustituye una consulta al médico, los resultados y las recomendaciones dadas solo sirven
+como un diagnóstico preventivo.
 
 No debe de usarse como sustituto del asesoramiento médico, el diagnóstico o el tratamiento. 
 
-Esta aplicacion y sus servicios no constituyen la práctica de tratamiento, diagnóstico o asesoramiento sobre 
-atención médica por parte de un médico, personal de enfermería u otro profesional.
+Esta aplicación y sus servicios no constituyen la práctica de tratamiento, diagnóstico o asesoramiento sobre 
+atención médica por parte de un médico, personal de enfermería u otro profesional.
