@@ -1,0 +1,7 @@
+Esta aplicacion es de manera preventiva, los datos recabados solo son para poder predecir el resultado 
+no se guardaran ningun dato en la aplicacion.
+
+No es asesoramiento medico el contenido y recomendaciones que ofrecemos sirven para informar a los usuarios para
+tener un diagnostico preventivo. No debe de usarse como sustituto del asesoramiento médico, el diagnóstico o el 
+tratamiento. Esta aplicacion y sus servicios no constituyen la práctica de tratamiento, diagnóstico o asesoramiento sobre 
+atención médica por parte de un médico, personal de enfermería u otro profesional.
